@@ -1,0 +1,1 @@
+This script dumps all users from AD and saves the results in csv format
