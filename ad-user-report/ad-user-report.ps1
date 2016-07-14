@@ -1,5 +1,5 @@
-﻿$Domain=’’
-$Username=’’
+$Domain=''
+$Username=''
 $Password=''
 
 $UsernameDomain=$Domain+’\’+$Username
