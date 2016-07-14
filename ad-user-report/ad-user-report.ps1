@@ -2,7 +2,7 @@ $Domain=''
 $Username=''
 $Password=''
 
-$UsernameDomain=$Domain+''\'+$Username
+$UsernameDomain=$Domain+'\'+$Username
 
 $SecurePassword=Convertto-SecureString –String $Password –AsPlainText –force
 
